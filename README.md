@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexCava
 - 👀 I’m interested in making random things code related
-- 🌱 I’m currently learning some Programming
+- 🌱 I’m currently learning some Programming.
 
 <!---
 AlexCava/AlexCava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
