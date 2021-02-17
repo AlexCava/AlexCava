@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexCava
-- 👀 I’m interested in making random things code related
+- 👀 I’m interested in making completely random code that may not have purpose, But I like to just do that for fun!
 - 🌱 I’m currently learning some Programming.
 
 <!---
